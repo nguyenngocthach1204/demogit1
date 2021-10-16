@@ -1,2 +1,2 @@
 file test.txt thuoc main
-file test
+file test thuoc main
