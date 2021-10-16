@@ -1,2 +1,3 @@
 week1 thuoc main
 thuoc main vao main
+them main
